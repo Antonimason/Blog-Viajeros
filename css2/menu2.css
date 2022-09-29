@@ -43,7 +43,7 @@ header label {
 	transform: translateX(0%);
 } /*con esto activa la lista y la arrastra a la derecha*/
 
-@media (min-width:1024px) {
+@media only screen and (min-width:1024px) {
 	.menu {
 		position: static; /*ya no se posiciona el menu*/
 		width: auto;
