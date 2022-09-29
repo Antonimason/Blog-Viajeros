@@ -4,7 +4,7 @@
 
 header label {
 	float: right;
-	font-size: 28px;
+	font-size: 18px;
 	margin: 9px 0;
 	cursor: pointer;
 }
@@ -47,6 +47,10 @@ header label {
 		transform: translateX(0%);
 		float: right;
 		display: flex;
+	}
+
+	.header-label {
+		font-size: 28px;
 	}
 	
 	menu a {

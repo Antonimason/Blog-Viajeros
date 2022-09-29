@@ -52,6 +52,14 @@ section {
 	text-align: center;
 }
 
+#bienvenidos h2 {
+	padding: 30px;
+	font-size: 40px;
+}
+
+#blog {
+	margin: 55px 0;
+}
 
 footer .contenedor {
 	display: flex;
