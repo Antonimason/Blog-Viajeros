@@ -57,6 +57,11 @@ section {
 	font-size: 40px;
 }
 
+#bienvenidos p {
+	width: 60%;
+	margin: 0 auto;
+}
+
 #blog {
 	margin: 55px 0;
 }
