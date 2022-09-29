@@ -9,6 +9,10 @@ header label {
 	cursor: pointer;
 }
 
+.icon-flight {
+	font-size: 20px;
+	padding-top: 5px;
+}
 .menu {
 	position: absolute;
 	top: 50px;
