@@ -1,0 +1,58 @@
+main .contenedor{
+    display: block;
+    width: 99%;
+    margin-top: 100px;
+    padding: 0 10px;
+    background: #F9EBEA;
+	color: #000;
+	text-align: center;
+    border-radius: 20px;
+}
+
+main h2{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+
+
+
+.video {
+    float: center;
+    width: 100%;
+    height: 100%;
+    border-bottom: 3px solid rgba(255,255,255,0.4);
+}
+.video h4 {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+#conocimiento {
+    padding-bottom: 100px;
+    margin-top: 20px;
+    border-bottom: 2px solid rgba(255,255,255,0.4);
+    text-align: justify;
+}
+.video p {
+    padding-bottom: 50px;
+    margin: 20px;
+    text-align: justify;
+}
+
+
+
+
+@media (min-width:1024px){
+    main .contenedor{
+        display: block;
+        width: 75%;
+        margin-top: 100px;
+        padding: 0 150px;
+    }
+}

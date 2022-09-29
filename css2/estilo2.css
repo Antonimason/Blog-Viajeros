@@ -1,0 +1,59 @@
+@import url(menu2.css);
+@import url(info2.css);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: palatino Linotype, sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background: #E6B0AA;
+	color: #FFF;
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 10;
+}
+
+.contenedor {
+	width: 98%;
+	margin: auto;
+}
+
+h1{
+	float: left;
+	margin: 6px 0;
+}
+
+header .contenedor{
+	display: table;
+}
+
+footer .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-bottom: 25px;
+}
+
+.copy {
+	font-size: 20px;
+}
+
+.sociales {
+	width: 100%;
+	text-align: center;
+	font-size: 28px;
+}
+
+.sociales a{
+	color: #000;
+	text-decoration: none;
+}

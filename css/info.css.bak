@@ -1,0 +1,32 @@
+#info h3 {
+	font-size: 25px;
+}
+#info {
+	background: #F9EBEA;
+	color: #000;
+	text-align: center;
+}
+
+#info .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.info-pais {
+	margin: 20px;
+}
+
+.info-pais img {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 3px solid #333;
+}
+
+
+@media (min-width:1024px) {
+	.info-pais {
+		width: auto;
+	}
+}

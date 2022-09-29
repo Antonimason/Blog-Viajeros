@@ -1,0 +1,83 @@
+@import url(menu.css); /*importando el menu*/
+@import url(banner.css);
+@import url(blog.css);
+@import url(info.css);
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: palatino linotype, sans-serif;
+}
+
+header {
+	width:100%; /* alto*/
+	height:50px; /*ancho */
+	background: #E6B0AA;
+	color: #FFF;
+	
+	position: fixed; /*se queda pegado el menu cuando baja */
+	top: 0; 
+	left: 0;
+	z-index: 10; /* para que este siempre por encima de los elementos*/
+}
+
+.contenedor {
+	width: 98%;
+	margin: auto;
+	
+}
+
+h1{
+	float: left;
+	margin: 6px 0;
+	
+}
+
+header .contenedor{
+	display: table;
+}
+
+section {
+	width: 100%;
+	margin-bottom: 25px; /*empuja lo que esta abajo*/
+}
+
+
+#bienvenidos {
+	text-align: center;
+}
+
+
+footer .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-bottom: 25px;
+}
+
+.copy {
+	font-size: 20px;
+}
+
+.sociales {
+	width: 100%;
+	text-align: center;
+	font-size: 28px;
+}
+
+.sociales a{
+	color: #000;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
