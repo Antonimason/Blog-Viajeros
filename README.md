@@ -2,11 +2,11 @@
 
 
 <h2>Introduction</h2>
-<p>This has been my first project with the intention of learning how to develop a website with html and css. 
+<p>This has been my first project with the intention of learning how to develop a website with HTML and CSS. 
   
 By making this page I learned the following: 
 
-- Structuring html.
+- Structuring HTML.
 - Using its tags at a basic level.
 - Operating different index.html.
 - Using css selectors and properties.
