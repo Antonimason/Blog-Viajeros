@@ -56,10 +56,19 @@
 
 @media only screen and (min-height: 800px) {
 	#banner {
-		height: 50vh;
+		height: 100vh;
 	}
 
 	#banner img {
 		height: 100%;
+	}
+}
+
+@media only screen and (min-height: 1200px){
+	#banner h2{
+		font-size: 4em;
+	}
+	#banner a {
+		font-size:2em;
 	}
 }
