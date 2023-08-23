@@ -1,6 +1,7 @@
 # Blog "Viajeros por el Mundo"
 
-![Viajeros por el Mundo](https://github.com/Antonimason/Blog-Viajeros/assets/104198696/d77d1084-e3f9-427e-96b1-0550cc0660a3)
+![Viajeros por el Mundo](https://github.com/Antonimason/Blog-Viajeros/assets/104198696/3a4b30ff-cba6-442b-9952-b04886e736c0)
+
 
 <h2>Introduction</h2>
 <p>This has been my first project with the intention of learning how to develop a website with HTML and CSS. 
