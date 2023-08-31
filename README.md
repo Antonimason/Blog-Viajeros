@@ -1,6 +1,7 @@
 # Blog "Viajeros por el Mundo"
 
-![Viajeros por el Mundo](https://github.com/Antonimason/Blog-Viajeros/assets/104198696/d77d1084-e3f9-427e-96b1-0550cc0660a3)
+![Viajeros por el Mundo](https://github.com/Antonimason/Blog-Viajeros/assets/104198696/3a4b30ff-cba6-442b-9952-b04886e736c0)
+
 
 <h2>Introduction</h2>
 <p>This has been my first project with the intention of learning how to develop a website with HTML and CSS. 
@@ -29,6 +30,9 @@ By making this page I learned the following:
 
 <h2>Technologies Used</h2>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
+
+<h2>Web page link</h2>
+<a href="https://viajerosporelmundo.netlify.app/">Viajeros por el Mundo</a>
 
 <h2>Contact</h2>
 
